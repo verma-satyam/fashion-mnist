@@ -20,11 +20,11 @@ Frameworks: Flask, Heroku, Jupyter.
 
 ### Input
 
-![](/img/img1.png)
+![](/img/img1.PNG)
 
 ### Output
 
-![](/img/img2.png)
+![](/img/img2.PNG)
 
 ## Installation
 ```bash
